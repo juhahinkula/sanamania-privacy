@@ -45,7 +45,7 @@ SanaMania on suunniteltu kaikille ikäryhmille. Sovellus ei sisällä mainoksia 
 Jos sinulla on kysyttävää tästä tietosuojaselosteesta tai sovelluksesta, ota yhteyttä:
 
 **SanaMania-kehittäjä**  
-Sähköposti: [oma.sahkoposti@example.com](mailto:oma.sahkoposti@example.com)
+Sähköposti: juha.hinkula@tuta.com
 
 ---
 
