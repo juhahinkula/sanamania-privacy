@@ -45,7 +45,7 @@ SanaMania is suitable for all ages. The app contains no ads and collects no user
 If you have any questions about this Privacy Policy or the app, please contact:
 
 **SanaMania Developer**  
-Email: juha.hinkula@tuta.com
+Email: juha.hinkula@tutamail.com
 
 ---
 
