@@ -1,6 +1,6 @@
 # SanaMania – Privacy Policy
 
-**[Lue tämä suomeksi →](readme.md)**
+**[Lue tämä suomeksi →](README.md)**
 
 **Last updated:** November 7, 2025
 
